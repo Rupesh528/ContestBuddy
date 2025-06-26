@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "timestamp": "2025-05-17T09:48:03.347020",
+    "count": 2
+  },
+  "contests": [
+    {
+      "duration": 5400,
+      "end": "2025-05-24T16:00:00",
+      "event": "Biweekly Contest 157",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/biweekly-contest-157",
+      "id": 59581932,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2025-05-24T14:30:00",
+      "start_datetime": "2025-05-24 08:00 PM IST",
+      "end_datetime": "2025-05-24 09:30 PM IST",
+      "platform_display_name": "LeetCode"
+    },
+    {
+      "duration": 5400,
+      "end": "2025-05-18T04:00:00",
+      "event": "Weekly Contest 450",
+      "host": "leetcode.com",
+      "href": "https://leetcode.com/contest/weekly-contest-450",
+      "id": 59589259,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "leetcode.com",
+      "resource_id": 102,
+      "start": "2025-05-18T02:30:00",
+      "start_datetime": "2025-05-18 08:00 AM IST",
+      "end_datetime": "2025-05-18 09:30 AM IST",
+      "platform_display_name": "LeetCode"
+    }
+  ]
+}

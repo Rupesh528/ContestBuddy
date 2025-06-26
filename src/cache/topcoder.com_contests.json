@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "timestamp": "2025-05-17T09:48:05.291437",
+    "count": 2
+  },
+  "contests": [
+    {
+      "duration": 604800,
+      "end": "2025-06-25T17:00:00",
+      "event": "Marathon Match 162",
+      "host": "topcoder.com",
+      "href": "https://www.topcoder.com/community/events",
+      "id": 59566245,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "topcoder.com",
+      "resource_id": 12,
+      "start": "2025-06-18T17:00:00",
+      "start_datetime": "2025-06-18 10:30 PM IST",
+      "end_datetime": "2025-06-25 10:30 PM IST",
+      "platform_display_name": "TopCoder"
+    },
+    {
+      "duration": 4602906,
+      "end": "2025-05-26T20:09:16",
+      "event": "SpaceNet 9: Cross Modal Satellite Imagery Registration",
+      "host": "topcoder.com",
+      "href": "https://topcoder.com/challenges/9620f66a-767e-40ac-81d5-5cc61274b186",
+      "id": 58735028,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "topcoder.com",
+      "resource_id": 12,
+      "start": "2025-04-03T13:34:10",
+      "start_datetime": "2025-04-03 07:04 PM IST",
+      "end_datetime": "2025-05-27 01:39 AM IST",
+      "platform_display_name": "TopCoder"
+    }
+  ]
+}

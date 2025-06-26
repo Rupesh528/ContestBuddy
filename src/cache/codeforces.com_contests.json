@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "timestamp": "2025-05-17T09:48:00.438209",
+    "count": 1
+  },
+  "contests": [
+    {
+      "duration": 8100,
+      "end": "2025-05-17T16:50:00",
+      "event": "Codeforces Round 1025 (Div. 2)",
+      "host": "codeforces.com",
+      "href": "https://codeforces.com/contests/2109",
+      "id": 59539275,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codeforces.com",
+      "resource_id": 1,
+      "start": "2025-05-17T14:35:00",
+      "start_datetime": "2025-05-17 08:05 PM IST",
+      "end_datetime": "2025-05-17 10:20 PM IST",
+      "platform_display_name": "Codeforces"
+    }
+  ]
+}

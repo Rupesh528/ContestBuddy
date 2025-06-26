@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "timestamp": "2025-05-17T09:48:01.225069",
+    "count": 2
+  },
+  "contests": [
+    {
+      "duration": 7200,
+      "end": "2025-05-21T16:30:00",
+      "event": "Starters 187",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/START187",
+      "id": 59190309,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2025-05-21T14:30:00",
+      "start_datetime": "2025-05-21 08:00 PM IST",
+      "end_datetime": "2025-05-21 10:00 PM IST",
+      "platform_display_name": "CodeChef"
+    },
+    {
+      "duration": 7200,
+      "end": "2025-05-28T16:30:00",
+      "event": "Starters 188",
+      "host": "codechef.com",
+      "href": "https://www.codechef.com/START188",
+      "id": 59660746,
+      "n_problems": null,
+      "n_statistics": null,
+      "parsed_at": null,
+      "problems": null,
+      "resource": "codechef.com",
+      "resource_id": 2,
+      "start": "2025-05-28T14:30:00",
+      "start_datetime": "2025-05-28 08:00 PM IST",
+      "end_datetime": "2025-05-28 10:00 PM IST",
+      "platform_display_name": "CodeChef"
+    }
+  ]
+}
